@@ -1,0 +1,41 @@
+[33mcommit ad8ed082c4e6c74f426497ea86ae75ce0703e5f0[m
+Author: Alejandro Perez <alecio88@gmail.com>
+Date:   Wed Dec 9 18:54:30 2015 -0300
+
+    Changes made in class.
+
+[33mcommit 4a52573bf1cef87b116af6106e1d1114f01cffe8[m
+Author: Alejandro Perez <alecio88@gmail.com>
+Date:   Wed Dec 9 12:41:37 2015 -0300
+
+    Fixing insert categoria
+
+[33mcommit 721102995eb61629d50d9abead0d626147fa8a5d[m
+Author: Alejandro Perez <alecio88@gmail.com>
+Date:   Tue Dec 8 16:56:36 2015 -0300
+
+    Alta categoria.aspx faltante
+
+[33mcommit 2a55572369d5e3782c11b51135749f22bd434697[m
+Author: Alejandro Perez <alecio88@gmail.com>
+Date:   Mon Dec 7 21:22:16 2015 -0300
+
+    Inserts Categoria into DB, using RequiredFieldValidator controls
+
+[33mcommit d6313babbf2c17d904e506dfcc8d4c8b3e5c623c[m
+Author: Blito <pabloarubi@gmail.com>
+Date:   Thu Dec 3 13:38:14 2015 -0800
+
+    Noticias can be inserted to the DB.
+
+[33mcommit 64017cdcb6f2ab6ccd6efabb5f763ae4a7f9386a[m
+Author: Blito <pabloarubi@gmail.com>
+Date:   Tue Dec 1 11:14:17 2015 -0800
+
+    DTO/DAO/Business working
+
+[33mcommit 1ea6337474f2cc204274d9febdbc9c5a700bee7e[m
+Author: Blito <pabloarubi@gmail.com>
+Date:   Sun Nov 29 17:59:10 2015 -0800
+
+    Initial commit
